@@ -1,0 +1,148 @@
+
+			body {
+				background-color: 000000;
+			}
+
+			.md-img {
+				width: 480px;
+				height: auto;
+			}
+
+
+
+			.col {
+				width:40px;
+				height: 220px;
+				float: center;
+			}
+
+			.row {
+				padding: 20px;
+			}
+
+
+			.benton-modern-display-compre {
+				font-family: "benton-modern-display-compre", serif;
+				font-size: 20pt;
+				font-weight: 700;
+				font-style: normal;
+				color: b5d393;
+			}
+
+
+			.benton-modern-display-compre2 {
+				font-family: "benton-modern-display-compre", serif;
+				font-size: 28pt;
+				font-weight: 700;
+				font-style: normal;
+				color: ffffff;
+			}
+
+
+			.benton-modern-display-compre3 {
+				font-family: "benton-modern-display-compre", serif;
+				font-size: 32pt;
+				font-weight: 700;
+				font-style: normal;
+				color: ffffff;
+			}
+
+
+			h1{
+				font-family: "benton-modern-display-compre", serif;
+				font-size: 50pt;
+				font-weight: 700;
+				font-style: normal;
+				color: ffffff;
+			}
+
+
+			}
+
+			.benton-modern-display-compre {
+				font-family: "benton-modern-display-compre", serif;
+				font-size: 100pt;
+				font-weight: 700;
+				font-style: normal;
+				color: b5d393;
+			}
+
+			.boxBorder {
+				border-style: solid;
+				border-width: 1px;
+			}
+
+			.full-width-color-block {
+				background-color: 004d4d;
+				width: 100%;
+				padding: 1%;
+			}
+
+			.header {
+				background-color: 004d4d;
+			}
+
+			.beep {
+				text-align: right;
+			}
+
+			.button {
+				border-radius: 75px;
+			}
+
+			.text-align {
+				text-align: center;
+			}
+
+			.bg-img {
+				width: 200px;
+			}
+
+			.column_img {
+				width: 50%;
+				height:50%;
+				object-fit: cover;
+			}
+
+			.imagestyle1 {
+				position: relative; 
+				top: -100px;
+			}
+
+			.imagestyle2 {
+				position: relative;
+				top: -160px;
+			}
+
+			.button-container {
+				margin: 20px;
+				position: relative;
+				top: -30px;
+			}
+
+			.underlin {
+				color: ffffff;
+			  	text-decoration-line: underline;
+			  	text-decoration-color: ff7a01;
+			  	text-underline-offset: 0.4em;
+
+			}
+
+			.orangey {
+				color: ff7a01;
+			}
+
+			.my-element {
+			  	text-decoration: none; /* Remove default underline */
+			  	border-bottom: 3px solid #ff7a01; /* Add a custom colored border */
+			}
+
+			.imagestyle3 {
+				position: relative;
+				bottom: -50px;
+			}
+
+			.imagestyle4 {
+				position: relative;
+				top: -40px;
+			}
