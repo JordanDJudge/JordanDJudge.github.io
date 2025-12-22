@@ -1,4 +1,5 @@
 
+
 			body {
 				background-color: 000000;
 			}
@@ -14,6 +15,10 @@
 				width:40px;
 				height: 220px;
 				float: center;
+			}
+
+			.container2 {
+				column-gap: 10px;
 			}
 
 			.row {
@@ -42,6 +47,14 @@
 			.benton-modern-display-compre3 {
 				font-family: "benton-modern-display-compre", serif;
 				font-size: 32pt;
+				font-weight: 700;
+				font-style: normal;
+				color: ffffff;
+			}
+
+			.benton-modern-display-compre4 {
+				font-family: "benton-modern-display-compre", serif;
+				font-size: 18pt;
 				font-weight: 700;
 				font-style: normal;
 				color: ffffff;
@@ -99,7 +112,7 @@
 			}
 
 			.bg-img2{
-				width: 300px;
+				width: 200px;
 			}
 
 			.column_img {
@@ -150,3 +163,48 @@
 				position: relative;
 				top: -40px;
 			}
+
+			.imagestyle6 {
+				position: relative;
+				top: -40px;
+			}
+
+			.icon-container {
+				width: 180px;
+				background-color: 6d6d6d;
+				text-align: center;
+				line-height: 50px;
+			}
+
+			.icon-container i {
+				font-size: 24px;
+			}
+
+			.padding: ; {
+				padding: 50px;
+			}
+
+			.box {
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				width: 30%;
+			}
+
+			.a {
+				text-decoration: none;
+			}
+
+				.imagestyle5 {
+				position: relative;
+				bottom: -80px;
+			}
+
+				.sm-img2 {
+				width: 30px;
+			}
+
+
+			</body>
+
+</html>
